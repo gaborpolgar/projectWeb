@@ -1,0 +1,3 @@
+<doctype>index</doctype>
+<head>gfgf</head>
+-----------------

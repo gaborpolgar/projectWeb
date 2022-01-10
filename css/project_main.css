@@ -1,0 +1,61 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+li{
+    
+    margin-right: 20px;
+}
+   
+header{
+    color: darkblue;
+    border-bottom: 50px gray;
+    padding: 10px 15px;
+}
+
+.navbar{
+    background-color: lightcyan;
+    
+}
+
+.homepic{
+    width: 70%;
+}
+
+map {
+    margin-left: 0;
+    margin-right: auto;
+    display: block;
+}
+
+.welcome{
+    color: rgb(4, 4, 99);
+}
+
+h1{
+    font-style: italic;
+    text-shadow: 100cm;
+    text-align: center;
+    color: brown;
+}
+
+.map{
+    display: block;
+  
+    margin-left: auto;
+    margin-right: 0;
+    
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+

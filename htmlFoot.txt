@@ -1,0 +1,27 @@
+    </ul>
+
+ </body>
+<footer class="container">
+    <div>
+        <h2>Kapcsolat</h2>
+        <ul style="font-size: 15px;">
+            <li>Réka és Gábor társasjáték kávézója</li>
+            <li>1142 Budapest, Kassai utca 142.</li>
+            <li>Nyitvatartásunk:<br>
+                Hétfő: 10:51-22:09 <br>
+                Kedd: 8:30-22:30
+            </li>
+            <li>Tel.: +36 1 123 45 67</li>
+        </ul>
+    </div>
+    <div class="old">
+        <h2>Oldalak</h2>
+        <ul style="font-size: 15px;">
+            <li>Főoldal</li>
+            <li><a href="projekt_02.html">Játékaink</a></li>
+            <li>Menü</li>
+        </ul>
+    </div>
+</footer>
+
+</html>

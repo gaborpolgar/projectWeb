@@ -1,0 +1,18 @@
+body {
+    color: rgb(4, 4, 99);
+    text-align: center;
+}
+
+.main {
+    font-size: 50px;
+    color: brown;
+}
+
+ul {
+    font-size: 30px;
+    list-style: none;
+}
+
+.container {
+    background-color: brown;
+}
